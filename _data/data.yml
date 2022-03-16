@@ -3,17 +3,17 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    Tentang: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    Pendidikan: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    Nama: Latif ismail adjie
+#     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: latifismailadjie@gmail.com
+    phone: 0878-8880-5340
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
